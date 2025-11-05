@@ -1,2 +1,2 @@
 time：2025-11-05
-news：我是wuke
+news：这是一个demo
